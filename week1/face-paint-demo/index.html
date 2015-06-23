@@ -1,0 +1,39 @@
+<html>
+	<head>
+
+		<script src='../../lib/p5.js'></script>
+		<script src='../../lib/addons/p5.dom.js'></script>
+		<script src='../../lib/addons/p5.sound.js'></script>
+		<script src='../../lib/clmtrackr.js'></script>
+		<script src='../../lib/model_pca_20_svm.js'></script>
+
+		<style>
+			body{
+				margin: 0;
+				padding: 0;
+			}
+		</style>
+
+	</head>
+
+	<body>
+		<script>
+
+		var mic = new p5.AudioIn();
+		mic.start();
+
+		function setup(){
+			createCanvas(windowWidth, windowHeight);
+			noStroke();
+		}
+
+		function draw(){
+			fill(random(255), 255, 255);
+			var d = map(mic.getLevel(), 0, 0.5, 1, 150);
+			var y = map(mic.getLevel(), 0, 0.5, height, 0);
+			ellipse(width/2, y, d, d);
+		}
+
+		</script>
+	</body>
+</html>

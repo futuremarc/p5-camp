@@ -19,6 +19,20 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 
 * Ideate
+* Setup
+	* [Setting up p5.js](http://p5js.org/get-started/)
+	* FTP Client: [Cyberduck](https://cyberduck.io/?l=en)
+	* Text Editor: [Sublime Text](http://www.sublimetext.com/)
+	* Local Server PC: [WAMP](http://www.wampserver.com/en/)
+	* Local Server Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd' and drag your folder from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
+
+* Other Links
+	* [Javascript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
+	* [HTML and CSS Basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
+	* [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+	* [p5 Reference](http://p5js.org/reference/)
+	* [p5 Examples](http://p5js.org/examples/)
+	* [p5 DOM Reference](http://p5js.org/reference/#/libraries/p5.dom)
 
 ### DAY 2: Drawing
 
