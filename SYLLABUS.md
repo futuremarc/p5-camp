@@ -103,7 +103,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 * HTML `<html></html>`
 * p5 Events `mousePressed(){};`
 * DOM `.class #id tag`
-* CSS `.my-class { background : 'blue' }
+* CSS `.my-class { background : 'blue' }`
 * JavaScript Events `onchange`
 
 ### OTHER LINKS
