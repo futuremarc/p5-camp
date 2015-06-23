@@ -8,7 +8,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 
 * Software, creative coding, and the web.
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
-	* [What is p5](http://p5js.org)?
+	* [What is p5?](http://p5js.org)
 		* [Processing](http://processing.org)
 		* [Processing Exhibition](https://processing.org/exhibition/)
 	* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
