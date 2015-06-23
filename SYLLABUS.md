@@ -39,7 +39,6 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* console.log();
 * Drawing
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle() – background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
-
 * DO: Draw anything onto the screen.
 * Examples
 
