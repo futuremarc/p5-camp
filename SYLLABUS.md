@@ -19,8 +19,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* [p5 Gallery](http://p5js.org/gallery/)
 		* Software Examples
 	* [What is p5?](http://p5js.org)
-		* [Processing](http://processing.org)
-		
+		* [Processing](http://processing.org)	
 * What is coding?
 	* Thinking like a computer
 		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
