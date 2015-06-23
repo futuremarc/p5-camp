@@ -8,6 +8,9 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 * Software, creative coding, and the web.
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
+	* [Super Sync Sports](https://chrome.com/supersyncsports/)
+	* [Jazz Computer](http://jazz.computer)
+	* [Creative Lab video]
 	* [What is p5?](http://p5js.org)
 		* [Processing](http://processing.org)
 		* [Processing Exhibition](https://processing.org/exhibition/)
@@ -43,10 +46,10 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 3: Animating on the canvas
 
-* Code Blocks {}
-	* `setup()`
-	* `draw()`
-* [Variables var](http://www.w3schools.com/js/js_variables.asp)
+* Code Blocks `{}`
+	* `setup(){}`
+	* `draw(){}`
+* [Variables](http://www.w3schools.com/js/js_variables.asp)
 	* Declare
 	* Initialize
 	* Use
@@ -74,7 +77,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* while
 	* for
 
-### CLASS 6: [Functions(){}](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+### CLASS 6: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
 
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
