@@ -36,8 +36,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* FTP Client: [Cyberduck](https://cyberduck.io/?l=en)
 	* Text Editor: [Sublime Text](http://www.sublimetext.com/)
 	* [Local Server Tutorial](https://github.com/processing/p5.js/wiki/Local-server)
-	* PC: [WAMP](http://www.wampserver.com/en/)
-	* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd', hit the spacebar and drag your folder containing index.html from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
+		* PC: [WAMP](http://www.wampserver.com/en/)
+		* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd', hit the spacebar and drag your folder containing index.html from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
 
 ### CLASS 2: Drawing on the Canvas
 
