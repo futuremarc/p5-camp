@@ -28,7 +28,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
 			* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
 			* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
-		 
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
 * **IN-CLASS**: [Marbles exercise](https://github.com/futuremarc/p5-creative-coding-course/blob/master/week1/icm-marbles.png)
 * Ideate
