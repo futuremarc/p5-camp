@@ -24,7 +24,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* [p5 Gallery](http://p5js.org/gallery/)
 	* [What is p5?](http://hello.p5js.org)
 		* [Processing](http://processing.org)
-		* In class examples
+		* live code examples
 			* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
 			* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
 			* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
