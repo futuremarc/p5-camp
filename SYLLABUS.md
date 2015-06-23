@@ -13,7 +13,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 		* [Processing Exhibition](https://processing.org/exhibition/)
 	* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
 	* Arduino Examples
-	* [p5 Examples](http://p5js.org/gallery/)
+	* [p5 Gallery](http://p5js.org/gallery/)
 	* Software Examples
 * What is programming?
 	* Thinking like a computer
