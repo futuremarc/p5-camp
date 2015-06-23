@@ -94,14 +94,15 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 
 ### KEYWORDS
 
-	* Variables `var x = 0;`
-	* Functions `function moveBall(){};`
-	* Objects `{ key : value }`
-	* Arrays `[25,26,27,28]`
-	* Loops `for (var i = 0; i < 5; i++){};`
-	* Conditionals `if (x > 4){ doThis(); }`
-	* HTML `<html></html>`
-	* p5 Events `mousePressed(){};`
+* Variables `var x = 0;`
+* Functions `function moveBall(){};`
+* Objects `{ key : value }`
+* Arrays `[25,26,27,28]`
+* Loops `for (var i = 0; i < 5; i++){};`
+* Conditionals `if (x > 4){ doThis(); }`
+* HTML `<html></html>`
+* p5 Events `mousePressed(){};`
+
 * Extra
 	* DOM `.class #id tag`
 	* CSS `.my-class { background : 'blue' }
