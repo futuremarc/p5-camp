@@ -10,7 +10,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
 	* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
 	* Arduino Examples
-	* Other CC Examples
+	* Everyday Examples
 
 * What is programming?
 	* Thinking like a computer
@@ -18,11 +18,12 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 		* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
 		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 
-* What is creative coding?
+* Ideate
 
-* What are we doing?
+### DAY 2: Drawing
 
-### DAY 2: 
+* Draw anything onto the screen using primitive shapes
+	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle() – background(), colorMode(), fill(), noFill(), noStroke(), stroke().`
 
 ### DAY 3:
 
