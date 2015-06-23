@@ -6,7 +6,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 1: Introduction
 
-* Coding is a super power
 * Software, creative coding, and the web
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
 	* Examples
