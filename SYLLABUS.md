@@ -13,7 +13,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
 			* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 			* Examples
-	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
+	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
 			* [Super Sync Sports](https://chrome.com/supersyncsports/)
 			* [Jazz Computer](http://jazz.computer)
@@ -23,8 +23,14 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* Arduino Examples
 			* [p5 Gallery](http://p5js.org/gallery/)
 	* [What is p5?](http://p5js.org)
-		* [Processing](http://processing.org)	
+		* [Processing](http://processing.org)
+		* In class examples
+			* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
+			* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
+			* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
+		 
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
+* **IN-CLASS**: [Marbles exercise](https://github.com/futuremarc/p5-creative-coding-course/blob/master/week1/icm-marbles.png)
 * Ideate
 * Course setup
 	* [Setting up p5.js](http://p5js.org/get-started/)
