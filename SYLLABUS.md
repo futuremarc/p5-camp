@@ -103,7 +103,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Debug
 * Presentations
 
-### KEY CONCEPTS
+### KEYWORDS
 
 * Variable `var x = 0;`
 * Function `function moveBall(){}`
