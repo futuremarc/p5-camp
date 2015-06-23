@@ -4,7 +4,7 @@
 
 This course will focus an an introduction to creative coding with [p5.js](http://p5js.org). It will cover drawing and animating on the canvas, designing and building interactivity, manipulating the DOM, web audio and music visualization.
 
-### DAY 1: Introduction
+### CLASS 1: Introduction
 
 * Software, creative coding, and the web.
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
@@ -33,7 +33,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* [p5 Examples](http://p5js.org/examples/)
 	* [p5 DOM Reference](http://p5js.org/reference/#/libraries/p5.dom)
 
-### DAY 2: Drawing
+### CLASS 2: Drawing
 
 * Debugging
 	* Developer Console
@@ -43,7 +43,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 * DO: Draw anything onto the screen.
 * Examples
 
-### DAY 3: Animation
+### CLASS 3: Animation
 
 * Code Blocks
 	* `setup()`
@@ -62,12 +62,12 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 * `map()`
 * Examples
 
-### DAY 4: Interaction
+### CLASS 4: Interaction
 
 * Workshop
 * Examples
 
-### DAY 5: Conditionals and Loops
+### CLASS 5: Conditionals and Loops
 * [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
 	* If, else if, else
 	* && || == != 
@@ -76,22 +76,22 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* while
 	* for
 
-### DAY 6: [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+### CLASS 6: [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
 
 
-### DAY 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
+### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### DAY 8: DOM library and Media
+### CLASS 8: DOM library and Media
 
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 * Examples
 
-### DAY 9: Workshop Day && Final Projects
+### CLASS 9: Workshop Day && Final Projects
 
 * Ideate
 * Create
 
-### DAY 10: Final Projects
+### CLASS 10: Final Projects
 
 * Debug
 * Presentations
