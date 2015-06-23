@@ -15,12 +15,12 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* Arduino Examples
 	* [p5 Gallery](http://p5js.org/gallery/)
 	* Software Examples
-* What is programming?
+* What is coding?
 	* Thinking like a computer
 		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
 		* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
 		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
-* Course overview
+* [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
 * Ideate
 * Course setup
 	* [Setting up p5.js](http://p5js.org/get-started/)
