@@ -16,6 +16,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
 		* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
 		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
+* Course overview
 * Ideate
 * Setup
 	* [Setting up p5.js](http://p5js.org/get-started/)
