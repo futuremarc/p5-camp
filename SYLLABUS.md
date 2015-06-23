@@ -29,6 +29,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 * Other Links
 	* [Javascript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 	* [HTML and CSS Basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
+	* [Intro to DOM manipulation and events](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events)
 	* [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 	* [p5 Reference](http://p5js.org/reference/)
 	* [p5 Examples](http://p5js.org/examples/)
