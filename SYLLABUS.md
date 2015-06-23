@@ -66,10 +66,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * **IN-CLASS**: Bouncing ball
 * Examples
 
-### CLASS 4: Interacting with the Browser
+### CLASS 4: Interaction in the Browser
 
 * Events
 	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked)
+* DOM
 * **IN-CLASS**: Workshop
 * Examples
 
