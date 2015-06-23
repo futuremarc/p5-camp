@@ -39,7 +39,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* PC: [WAMP](http://www.wampserver.com/en/)
 	* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd' and drag your folder from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
 
-### CLASS 2: Drawing on the canvas
+### CLASS 2: Drawing on the Canvas
 
 * [Reference](http://p5js.org/reference/)
 * Debugging
@@ -50,7 +50,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, robot, abstract image
 * Examples
 
-### CLASS 3: Animating on the canvas
+### CLASS 3: Animating on the Canvas
 
 * Code Blocks {}
 	* `setup(){}`
