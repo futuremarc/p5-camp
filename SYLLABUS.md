@@ -65,6 +65,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* `mouseX, mouseY`
 	* `random()`
 	* `noise()`
+
 * Bouncing ball example
 * `map()`
 * Examples
@@ -79,7 +80,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* If, else if, else
 	* && || == != 
 	* Boolean variables
-
+	
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
