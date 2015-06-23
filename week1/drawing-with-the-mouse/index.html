@@ -2,10 +2,6 @@
 	<head>
 
 		<script src='../../lib/p5.js'></script>
-		<script src='../../lib/addons/p5.dom.js'></script>
-		<script src='../../lib/addons/p5.sound.js'></script>
-		<script src='../../lib/clmtrackr.js'></script>
-		<script src='../../lib/model_pca_20_svm.js'></script>
 
 		<style>
 			body{
@@ -27,8 +23,8 @@
 		function draw(){
 			if (mouseIsPressed){
 				fill(random(255), 255, 255);
-				var d = map(mouseY, 0, height, 1, 150);
-				ellipse(mouseX, mouseY, d, d);
+				var diameter = map(mouseY, 0, height, 1, 150);
+				ellipse(mouseX, mouseY, diameter, diameter);
 			}
 		}
 
