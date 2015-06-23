@@ -8,16 +8,18 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 * Software, creative coding, and the web.
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
-	* [Super Sync Sports](https://chrome.com/supersyncsports/)
-	* [Jazz Computer](http://jazz.computer)
-	* [Creative Lab video]
+	* Examples
+		* [Super Sync Sports](https://chrome.com/supersyncsports/)
+		* [Jazz Computer](http://jazz.computer)
+		* [Three.JS](http://threejs.org)
+		* [Processing Exhibition](https://processing.org/exhibition/)
+		* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
+		* Arduino Examples
+		* [p5 Gallery](http://p5js.org/gallery/)
+		* Software Examples
 	* [What is p5?](http://p5js.org)
 		* [Processing](http://processing.org)
-		* [Processing Exhibition](https://processing.org/exhibition/)
-	* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
-	* Arduino Examples
-	* [p5 Gallery](http://p5js.org/gallery/)
-	* Software Examples
+		
 * What is coding?
 	* Thinking like a computer
 		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
