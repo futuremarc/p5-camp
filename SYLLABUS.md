@@ -11,7 +11,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* Thinking like a computer
 			* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
 			* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
-			* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
+			* **IN-CLASS**: [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 		* Examples
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
@@ -29,7 +29,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
 			* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
-* **IN-CLASS**: [Marbles exercise](https://github.com/futuremarc/p5-creative-coding-course/blob/master/week1/icm-marbles.png)
 * Ideate
 * Course setup
 	* [Setting up p5.js](http://p5js.org/get-started/)
