@@ -105,23 +105,27 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Functions `function moveBall(){};`
 * Objects `{ key : value }`
 * Arrays `[25,26,27,28]`
+* Boolean `true`
+* Number `30.5`
+* String `'words in a sentence.'`
 * Loops `for (var i = 0; i < 5; i++){};`
 * Conditionals `if (x > 4){ doThis(); }`
 * HTML `<html></html>`
-* p5 Events `mousePressed(){};`
 * DOM `.class #id tag`
 * CSS `.my-class { background : 'blue' }`
 * JavaScript Events `onchange`
 
+
+
 ### OTHER LINKS
 
-* Web
+* Learn Web
 	* [Javascript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 	* [HTML and CSS Basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
 	* [Intro to DOM manipulation and events](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events)
 	* [W3Schools](http://www.w3schools.com/)
 	* [Codecademy](http://www.codecademy.com/learn)
-* p5.js
+* Learn p5.js
 	* [Tutorials](http://p5js.org/tutorials/)
 	* [p5 Reference](http://p5js.org/reference/)
 	* [p5 Examples](http://p5js.org/examples/)
