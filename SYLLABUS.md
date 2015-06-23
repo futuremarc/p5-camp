@@ -31,8 +31,9 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 
 ### CLASS 2: Drawing on the canvas
 
+* [Reference](http://p5js.org/reference/)
 * Debugging
-	* Developer Console
+	* [Chrome Developer Console](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
 	* `console.log()`
 * Drawing
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle() – background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
@@ -48,19 +49,19 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* Declare
 	* Initialize
 	* Use
-* Events
-	* `mouseClicked()`
  Variation
 	* `mouseX, mouseY`
 	* `random()`
 	* `noise()`
-* Bouncing ball example
 * `map()`
+* **IN-CLASS**: Bouncing ball
 * Examples
 
-### CLASS 4: Interaction
+### CLASS 4: Interacting with the Browser
 
-* Workshop
+* Events
+	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked)
+* **IN-CLASS**: Workshop
 * Examples
 
 ### CLASS 5: Conditionals and Loops
@@ -77,7 +78,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### CLASS 8: DOM library and Media
+### CLASS 8: DOM and Media
 
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 * Examples
