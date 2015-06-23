@@ -2,7 +2,13 @@
 
 ## OVERVIEW
 
-This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover drawing and animating on the canvas, designing and building interactivity, manipulating and animating the DOM, web audio synthesis, music visualization, and media manipulation.
+This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover: 
+* [drawing]() and [animating]() on the canvas
+* designing and building [interactivity]()
+* manipulating and animating the [DOM]()
+* [web audio]() synthesis
+* [music visualization]()
+* and [media manipulation]()
 
 ### CLASS 1: Introduction
 
