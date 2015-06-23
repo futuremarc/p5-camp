@@ -102,10 +102,9 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 * Conditionals `if (x > 4){ doThis(); }`
 * HTML `<html></html>`
 * p5 Events `mousePressed(){};`
-* Extra
-	* DOM `.class #id tag`
-	* CSS `.my-class { background : 'blue' }
-	* JavaScript Events `onchange`
+* DOM `.class #id tag`
+* CSS `.my-class { background : 'blue' }
+* JavaScript Events `onchange`
 
 ### OTHER LINKS
 
