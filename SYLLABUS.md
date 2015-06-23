@@ -46,7 +46,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 3: Animating on the canvas
 
-* Code Blocks `{}`
+* Code Blocks {}
 	* `setup(){}`
 	* `draw(){}`
 * [Variables](http://www.w3schools.com/js/js_variables.asp)
