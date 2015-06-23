@@ -23,7 +23,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* Text Editor: [Sublime Text](http://www.sublimetext.com/)
 	* Local Server PC: [WAMP](http://www.wampserver.com/en/)
 	* Local Server Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd' and drag your folder from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
-* Other Links
+* Other links
 	* [Javascript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 	* [HTML and CSS Basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
 	* [Intro to DOM manipulation and events](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events)
