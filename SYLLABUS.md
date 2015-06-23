@@ -94,7 +94,6 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 
 ### KEYWORDS
 
-* Main
 	* Variables `var x = 0;`
 	* Functions `function moveBall(){};`
 	* Objects `{ key : value }`
