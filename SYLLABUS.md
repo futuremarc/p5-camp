@@ -7,6 +7,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 ### CLASS 1: Introduction
 
 * Software, creative coding, and the web
+	* What is coding?
+	* Thinking like a computer
+		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
+		* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
+		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
 	* Examples
 		* [Super Sync Sports](https://chrome.com/supersyncsports/)
@@ -19,11 +24,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* Software Examples
 	* [What is p5?](http://p5js.org)
 		* [Processing](http://processing.org)	
-* What is coding?
-	* Thinking like a computer
-		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
-		* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
-		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
 * Ideate
 * Course setup
