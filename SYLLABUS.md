@@ -26,8 +26,9 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [Setting up p5.js](http://p5js.org/get-started/)
 	* FTP Client: [Cyberduck](https://cyberduck.io/?l=en)
 	* Text Editor: [Sublime Text](http://www.sublimetext.com/)
-	* Local Server PC: [WAMP](http://www.wampserver.com/en/)
-	* Local Server Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd' and drag your folder from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
+	* [Local Server Tutorial](https://github.com/processing/p5.js/wiki/Local-server)
+	* PC: [WAMP](http://www.wampserver.com/en/)
+	* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd' and drag your folder from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
 
 ### CLASS 2: Drawing on the canvas
 
@@ -35,17 +36,17 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Debugging
 	* [Chrome Developer Console](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
 	* `console.log()`
-* Drawing
+* Drawing 
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle() – background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
-* **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, self-portrait, abstract image
+* **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, robot, abstract image
 * Examples
 
 ### CLASS 3: Animating on the canvas
 
-* Code Blocks
+* Code Blocks {}
 	* `setup()`
 	* `draw()`
-* Variables
+* [Variables var](http://www.w3schools.com/js/js_variables.asp)
 	* Declare
 	* Initialize
 	* Use
@@ -73,7 +74,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* while
 	* for
 
-### CLASS 6: [Functions](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+### CLASS 6: [Functions(){}](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
 
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
@@ -109,12 +110,14 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### OTHER LINKS
 
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* Web
 	* [Javascript Basics](https://github.com/processing/p5.js/wiki/JavaScript-basics)
 	* [HTML and CSS Basics](https://github.com/processing/p5.js/wiki/Intro-to-HTML-and-CSS)
 	* [Intro to DOM manipulation and events](https://github.com/processing/p5.js/wiki/Intro-to-DOM-manipulation-and-events)
+	* [W3Schools](http://www.w3schools.com/)
+	* [Codecademy](http://www.codecademy.com/learn)
 * p5.js
-	* [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+	* [Tutorials](http://p5js.org/tutorials/)
 	* [p5 Reference](http://p5js.org/reference/)
 	* [p5 Examples](http://p5js.org/examples/)
 	* [p5 DOM Reference](http://p5js.org/reference/#/libraries/p5.dom)
