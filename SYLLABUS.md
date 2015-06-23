@@ -15,9 +15,9 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* Examples
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
-			* [Super Sync Sports](https://chrome.com/supersyncsports/)
 			* [Jazz Computer](http://jazz.computer)
 			* [Three.JS](http://threejs.org)
+			* [Super Sync Sports](https://chrome.com/supersyncsports/)
 			* [Processing Exhibition](https://processing.org/exhibition/)
 			* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
 			* Arduino Examples
