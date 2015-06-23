@@ -83,7 +83,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* while
 	* for
 
-### CLASS 6: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions), Classes, and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+### CLASS 6: [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays), [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and Classes
 
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
