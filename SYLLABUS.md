@@ -118,7 +118,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * DOM `.class #id tag`
 * CSS `.my-class { background : 'blue' }`
 * JavaScript Events `onchange`
-* Library/Framework
 
 
 ### OTHER LINKS
