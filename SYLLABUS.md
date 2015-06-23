@@ -49,7 +49,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 	* Declare
 	* Initialize
 	* Use
- Variation
+* Variation
 	* `mouseX, mouseY`
 	* `random()`
 	* `noise()`
