@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This course will focus an an introduction to creative coding with [p5.js](http://p5js.org). It will cover drawing and animating on the canvas, designing and building interactivity, manipulating the DOM, web audio and music visualization.
+This course will focus an an introduction to creative coding with [p5.js](http://p5js.org). It will cover drawing and animating on the canvas, designing and building interactivity, manipulating and animating the DOM, web audio synthesis, music visualization and media playback.
 
 ### CLASS 1: Introduction
 
@@ -22,7 +22,7 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
 * Course overview
 * Ideate
-* Setup
+* Course setup
 	* [Setting up p5.js](http://p5js.org/get-started/)
 	* FTP Client: [Cyberduck](https://cyberduck.io/?l=en)
 	* Text Editor: [Sublime Text](http://www.sublimetext.com/)
@@ -33,10 +33,10 @@ This course will focus an an introduction to creative coding with [p5.js](http:/
 
 * Debugging
 	* Developer Console
-	* console.log();
+	* `console.log()`
 * Drawing
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle() – background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
-* DO: Draw anything onto the screen.
+* **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, self-portrait, abstract image
 * Examples
 
 ### CLASS 3: Animating on the canvas
