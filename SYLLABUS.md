@@ -12,16 +12,16 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
 		* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
 		* [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
+		* Examples
 	* [What is Creative Coding?](http://reddit.com/r/creativecoding)
-	* Examples
-		* [Super Sync Sports](https://chrome.com/supersyncsports/)
-		* [Jazz Computer](http://jazz.computer)
-		* [Three.JS](http://threejs.org)
-		* [Processing Exhibition](https://processing.org/exhibition/)
-		* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
-		* Arduino Examples
-		* [p5 Gallery](http://p5js.org/gallery/)
-		* Software Examples
+		* Examples
+			* [Super Sync Sports](https://chrome.com/supersyncsports/)
+			* [Jazz Computer](http://jazz.computer)
+			* [Three.JS](http://threejs.org)
+			* [Processing Exhibition](https://processing.org/exhibition/)
+			* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
+			* Arduino Examples
+			* [p5 Gallery](http://p5js.org/gallery/)
 	* [What is p5?](http://p5js.org)
 		* [Processing](http://processing.org)	
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
