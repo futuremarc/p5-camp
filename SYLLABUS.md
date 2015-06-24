@@ -24,6 +24,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
 			* Arduino Examples
 			* [p5 Gallery](http://p5js.org/gallery/)
+		* [Net Art Grants](http://rhizome.org/commissions/grant/internet-art-microgrants-2015/)
 	* [What is p5?](http://hello.p5js.org)
 		* [Processing](http://processing.org)
 		* Walkthrough examples
