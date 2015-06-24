@@ -16,6 +16,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
 			* [Jazz Computer](http://jazz.computer)
+			* [Cabbibo](http://cabbi.bo/)
+			* [Void](http://void.hi-res.net/)
 			* [Three.JS](http://threejs.org)
 			* [Super Sync Sports](https://chrome.com/supersyncsports/)
 			* [Processing Exhibition](https://processing.org/exhibition/)
