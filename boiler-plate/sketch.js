@@ -1,0 +1,10 @@
+//DECLARE SOME VARIABLES HERE
+
+
+function setup(){
+	//INITIALIZE SKETCH HERE
+}
+
+function draw(){
+	//DO THIS OVER AND OVER AGAIN
+}
