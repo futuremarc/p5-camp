@@ -12,6 +12,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
 			* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
 			* **IN-CLASS**: [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
+			* [JavaScript](https://www.facebook.com/heyllowlab/videos/vb.546681475406388/865218866885979/?type=2&theater)
 		* Examples
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
