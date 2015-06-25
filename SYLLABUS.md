@@ -74,7 +74,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 * Events
 	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode
-* DOM
+* [DOM](http://p5js.org/reference/#/libraries/p5.dom)
 * **IN-CLASS**: Workshop
 * Examples
 
