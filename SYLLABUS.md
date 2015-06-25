@@ -73,7 +73,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 ### CLASS 4: Interaction in the Browser
 
 * Events
-	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked)
+	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode
 * DOM
 * **IN-CLASS**: Workshop
 * Examples
