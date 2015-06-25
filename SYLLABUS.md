@@ -16,14 +16,14 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* Examples
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
+			* [Processing Exhibition](https://processing.org/exhibition/)
+			* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
+			* Arduino Examples
 			* [Jazz Computer](http://jazz.computer)
 			* [Cabbibo](http://cabbi.bo/)
 			* [Void](http://void.hi-res.net/)
 			* [Three.JS](http://threejs.org)
 			* [Super Sync Sports](https://chrome.com/supersyncsports/)
-			* [Processing Exhibition](https://processing.org/exhibition/)
-			* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
-			* Arduino Examples
 			* [p5 Gallery](http://p5js.org/gallery/)
 		* [Net Art Grants](http://rhizome.org/commissions/grant/internet-art-microgrants-2015/)
 	* [What is p5?](http://hello.p5js.org)
