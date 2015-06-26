@@ -101,7 +101,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
-* [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays) []
+* [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays) [ ]
 
 ### CLASS 6: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and Classes
 
