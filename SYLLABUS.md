@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover the basics of programming through: drawing and animating in the browser, designing and building interactivity, manipulating and animating the page structure, audio synthesis on the web, and music visualization. We will be using the textbook and examples form [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js) adapted to p5.js by Daniel Shiffman.
+This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover the basics of programming through: drawing and animating in the browser, designing and building interactivity, manipulating and animating the page structure, audio synthesis on the web, and music visualization. We will be using the textbook and examples from [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js) by Daniel Shiffman.
 
 ### CLASS 1: Introduction
 
