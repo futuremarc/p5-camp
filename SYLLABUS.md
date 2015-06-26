@@ -64,9 +64,9 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* Use
 * Variation
 	* `mouseX, mouseY`
-	* `[random()]`(http://p5js.org/reference/#/p5/random)
-	* `[noise()]`(http://p5js.org/reference/#/p5/noise)
-* `map()`
+	* [`random()`](http://p5js.org/reference/#/p5/random)
+	* [`noise()`](http://p5js.org/reference/#/p5/noise)
+* [`map()`](http://p5js.org/reference/#/p5/map)
 * **IN-CLASS**: Bouncing ball
 * Examples
 
