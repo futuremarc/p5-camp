@@ -88,7 +88,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 ### CLASS 4: Interaction in the Browser
 
 * Events
-	* `[mouseClicked()](http://p5js.org/reference/#/p5/mouseClicked),[accelerationY](http://p5js.org/reference/#/p5/accelerationY), mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode`
+	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), `mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode`
 * [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
 	* `If, else if, else`
 	* `&& || == != `
