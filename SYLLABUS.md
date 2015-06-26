@@ -61,7 +61,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* `background(0)` (black)
 		* `background(255, 0, 0)` (bright red)
 		* `fill(25, 50, 75, 255)` (100% opacity)
-		
 * **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, the sky, flowers, a robot, an abstract image
 * Examples
 
@@ -109,6 +108,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
 ### CLASS 8: * [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
+
 * HTML
 * CSS
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
