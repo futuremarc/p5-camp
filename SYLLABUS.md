@@ -49,7 +49,17 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
 	* `console.log()`
 * Drawing 
-	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle() – background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
+	* `createCanvas()`
+		* [What is a canvas?](http://www.w3schools.com/html/html5_canvas.asp) Where is (0,0)?
+	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle()`
+	* `background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
+	* Color
+		* `background(255)` (white) 
+		* `background(255, 0, 0)` (red)
+		* `fill(25, 50, 75, 100)` (opacity)
+	* `ellipseMode()`
+	* `rectMode()`
+	* 
 * **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, robot, abstract image
 * Examples
 
