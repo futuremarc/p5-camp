@@ -52,20 +52,23 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `createCanvas()`
 		* [What is a canvas?](http://www.w3schools.com/html/html5_canvas.asp) Where is (0,0)?
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle()`
-	* `background(), colorMode(), fill(), noFill(), noStroke(), stroke()`
+	* `background(), fill(), noFill(), noStroke(), stroke()`
 	* Color
 		* `background(255)` (white) 
-		* `background(255, 0, 0)` (red)
-		* `fill(25, 50, 75, 100)` (opacity)
+		* `background(0)` (black)
+		* `background(255, 0, 0)` (bright red)
+		* `fill(25, 50, 75, 255)` (100% opacity)
+		* [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
+			* HSB: Hue, Saturation, Brightness
+			* RGB: Red, Green, Blue
 	* `ellipseMode()`
 	* `rectMode()`
-	* 
 * **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, robot, abstract image
 * Examples
 
 ### CLASS 3: Animating on the Canvas
 
-* Code Blocks {}
+* Code Blocks
 	* `setup(){}`
 	* `draw(){}`
 * [Variables](http://www.w3schools.com/js/js_variables.asp)
@@ -76,6 +79,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `mouseX, mouseY`
 	* [`random()`](http://p5js.org/reference/#/p5/random)
 	* [`noise()`](http://p5js.org/reference/#/p5/noise)
+	* `x = x + 1` shorthand: `x+=1`
 * [`map()`](http://p5js.org/reference/#/p5/map)
 * **IN-CLASS**: Bouncing ball
 * Examples
