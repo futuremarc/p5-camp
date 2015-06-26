@@ -82,7 +82,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [`random()`](http://p5js.org/reference/#/p5/random)
 	* [`noise()`](http://p5js.org/reference/#/p5/noise)
 	* `x = x + 1` shorthand: `x+=1`
-* [`map()`](http://p5js.org/reference/#/p5/map)
+	* [`map()`](http://p5js.org/reference/#/p5/map)
 * Examples
 
 ### CLASS 4: Interaction in the Browser
