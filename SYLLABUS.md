@@ -44,6 +44,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 2: Drawing on the Canvas
 
+* Be comfortable not knowing everything all at once.
 * [p5 Reference](http://p5js.org/reference/)
 * Debugging
 	* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
@@ -52,68 +53,70 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `createCanvas()`
 		* [What is a canvas?](http://www.w3schools.com/html/html5_canvas.asp) Where is (0,0)?
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle()`
+	* `ellipseMode()`
+	* `rectMode()`
 	* `background(), fill(), noFill(), noStroke(), stroke()`
 	* Color
 		* `background(255)` (white) 
 		* `background(0)` (black)
 		* `background(255, 0, 0)` (bright red)
 		* `fill(25, 50, 75, 255)` (100% opacity)
-		* [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
-			* HSB: Hue, Saturation, Brightness
-			* RGB: Red, Green, Blue
-	* `ellipseMode()`
-	* `rectMode()`
-* **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, robot, abstract image
+		
+* **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, the sky, flowers, a robot, an abstract image
 * Examples
 
 ### CLASS 3: Animating on the Canvas
 
-* Code Blocks
-	* `setup(){}`
-	* `draw(){}`
+* [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
+			* HSB: Hue, Saturation, Brightness
+			* RGB: Red, Green, Blue
+* Code Blocks { }
+	* `setup(){}` runs once in the beggining.
+	* `draw(){}` when setup is finished it runs over and over again.
 * [Variables](http://www.w3schools.com/js/js_variables.asp)
 	* Declare
 	* Initialize
 	* Use
 * Variation
 	* `mouseX, mouseY`
+	* `pmouseX, pmouseY`
 	* [`random()`](http://p5js.org/reference/#/p5/random)
 	* [`noise()`](http://p5js.org/reference/#/p5/noise)
 	* `x = x + 1` shorthand: `x+=1`
 * [`map()`](http://p5js.org/reference/#/p5/map)
-* **IN-CLASS**: Bouncing ball
 * Examples
 
 ### CLASS 4: Interaction in the Browser
 
 * Events
-	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode
-* [DOM](http://p5js.org/reference/#/libraries/p5.dom)
-* **IN-CLASS**: Workshop
+	* `[mouseClicked()](http://p5js.org/reference/#/p5/mouseClicked),[accelerationY](http://p5js.org/reference/#/p5/accelerationY), mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode`
+* [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
+	* `If, else if, else`
+	* `&& || == != `
+	* `Boolean` variables
+* **IN-CLASS**: Bouncing ball
 * Examples
 
-### CLASS 5: Conditionals and Loops
-* [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
-	* If, else if, else
-	* && || == != 
-	* Boolean variables
+### CLASS 5: Loops and Arrays
+
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
+* [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays) []
 
-### CLASS 6: [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays), [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and Classes
-
+### CLASS 6: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and Classes
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### CLASS 8: DOM and Media
-
+### CLASS 8: * [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
+* HTML
+* CSS
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 * Examples
 
 ### CLASS 9: Workshop Day && Final Projects
 
-* Ideate
+* Ideate or Improve
 * Create
 
 ### CLASS 10: Final Projects
