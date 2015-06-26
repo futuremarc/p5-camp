@@ -51,7 +51,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `console.log()`
 * Drawing 
 	* `createCanvas()`
-		* [What is a canvas?](http://www.w3schools.com/html/html5_canvas.asp) Where is (0,0)?
+		* Where is (0,0)?
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle()`
 	* `ellipseMode()`
 	* `rectMode()`
