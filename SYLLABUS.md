@@ -56,11 +56,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `ellipseMode()`
 	* `rectMode()`
 	* `background(), fill(), noFill(), noStroke(), stroke()`
-	* Color
-		* `background(255)` (white) 
-		* `background(0)` (black)
-		* `background(255, 0, 0)` (bright red)
-		* `fill(25, 50, 75, 255)` (100% opacity)
+* Color
+	* `background(255)` (white) 
+	* `background(0)` (black)
+	* `background(255, 0, 0)` (bright red)
+	* `fill(25, 50, 75, 255)` (100% opacity)
 * **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, the sky, flowers, a robot, an abstract image
 * Examples
 
