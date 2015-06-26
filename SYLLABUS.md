@@ -67,8 +67,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 ### CLASS 3: Animating on the Canvas
 
 * [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
-			* HSB: Hue, Saturation, Brightness
-			* RGB: Red, Green, Blue
+	* HSB: Hue, Saturation, Brightness
+	* RGB: Red, Green, Blue
 * Code Blocks { }
 	* `setup(){}` runs once in the beggining.
 	* `draw(){}` when setup is finished it runs over and over again.
