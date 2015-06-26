@@ -112,6 +112,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * HTML
 * CSS
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
+* Video and Audio elements
 * Examples
 
 ### CLASS 9: Workshop Day && Final Projects
