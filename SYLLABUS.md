@@ -76,9 +76,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* Declare
 	* Initialize
 	* Use
+	* 'Built-in' variables
 * Variation
 	* `mouseX, mouseY`
 	* `pmouseX, pmouseY`
+		* `line(pmouseX, pmouseY, mouseX, mouseY)`
 	* [`random()`](http://p5js.org/reference/#/p5/random)
 	* [`noise()`](http://p5js.org/reference/#/p5/noise)
 	* `x = x + 1` shorthand: `x+=1`
@@ -89,6 +91,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 * Events
 	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), `mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode`
+	* Ex 3-5
 * [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
 	* `If, else if, else`
 	* `&& || == != `
