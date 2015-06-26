@@ -107,7 +107,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### CLASS 8: * [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
+### CLASS 8: [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
 
 * HTML
 * CSS
