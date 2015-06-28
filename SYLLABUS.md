@@ -11,8 +11,9 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* Thinking like a computer
 			* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
 			* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
-			* **IN-CLASS**: [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)
+			* **IN-CLASS**: [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)/Write instructions for each other.
 			* [JavaScript](https://www.facebook.com/heyllowlab/videos/vb.546681475406388/865218866885979/?type=2&theater)
+			* [Made With Code](https://www.madewithcode.com/)
 		* Examples
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
 		* Examples
@@ -94,8 +95,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* Ex 3-5
 * [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
 	* `If, else if, else`
-	* `&& || == != `
+		* Grading System
+	* `&& || == != === !==`
+	* Pseudo Code
 	* `Boolean` variables
+		* I am hungry
 * **IN-CLASS**: Bouncing ball
 * Examples
 
@@ -116,12 +120,15 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * CSS
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 * Video and Audio elements
+* Load and display and image
+* Fonts
+* Sound files
 * Examples
 
 ### CLASS 9: Workshop Day && Final Projects
 
-* Ideate or Improve
-* Create
+* Ideate
+* Create or Improve
 
 ### CLASS 10: Final Projects
 
