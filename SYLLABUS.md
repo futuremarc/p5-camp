@@ -2,24 +2,18 @@
 
 ## OVERVIEW
 
-This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover the basics of programming through: drawing and animating in the browser, designing and building interactivity, manipulating and animating the page structure, audio synthesis on the web, and music visualization. We will be using the textbook and examples from [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js) by Daniel Shiffman.
+This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover the basics of programming through: drawing and animating in the browser, designing and building interactivity, manipulating and animating page structure, audio synthesis on the web, and music visualization. We will be using the textbook and examples from [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js) by Daniel Shiffman.
 
 ### CLASS 1: Introduction
 
 * Software, creative coding, and the web
-	* What is coding?
-		* Thinking like a computer
-			* [Precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
-			* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
-			* **IN-CLASS**: [Marbles program](https://github.com/futuremarc/p5-camp/blob/master/week1/icm-marbles.png?raw=true)/Write instructions for each other.
-			* [JavaScript](https://www.facebook.com/heyllowlab/videos/vb.546681475406388/865218866885979/?type=2&theater)
-			* [Made With Code](https://www.madewithcode.com/)
-		* Examples
 	* [What is creative coding?](http://reddit.com/r/creativecoding)
+		* Programming as a creative discipline. 
 		* Examples
 			* [Processing Exhibition](https://processing.org/exhibition/)
 			* [Shiffman's List](https://github.com/ITPNYU/ICM-2014/wiki/Projects)
-			* Arduino Examples
+			* [Arduino Examples](http://www.instructables.com/id/20-Unbelievable-Arduino-Projects/)
+		* Creative coding with the web
 			* [Jazz Computer](http://jazz.computer)
 			* [Cabbibo](http://cabbi.bo/)
 			* [Void](http://void.hi-res.net/)
@@ -29,13 +23,20 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* [Net Art Grants](http://rhizome.org/commissions/grant/internet-art-microgrants-2015/)
 	* [What is p5?](http://hello.p5js.org)
 		* [Processing](http://processing.org)
-		* Walkthrough examples
-			* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
-			* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
-			* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
+	* What is coding?
+		* Modern world is built on it
+		* [Made With Code](https://www.madewithcode.com/)
+		* Thinking like a computer
+			* [A series of precise instructions](https://www.youtube.com/watch?v=xngWoocXYCo)
+				* Robot waiter delivering food to guests
+			* [Recipe](https://www.youtube.com/watch?v=UScm9avQM1Y)
+				* List of ingredients and instructions
+			* **IN-CLASS**: Create a list of instructions for each other to do in class. Try to be very specific.
+	* Ideate
+		* **IN-CLASS**: Split up into pairs and come up with some ideas of things to make with code.
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
-* Ideate
 * Course setup
+	* [Download Boilerplate](https://github.com/futuremarc/p5-creative-coding-course/tree/master/boiler-plate) 
 	* [Setting up p5.js](http://p5js.org/get-started/)
 	* FTP Client: [Cyberduck](https://cyberduck.io/?l=en)
 	* Text Editor: [Sublime Text](http://www.sublimetext.com/)
@@ -44,8 +45,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd', hit the spacebar and drag your folder containing index.html from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
 
 ### CLASS 2: Drawing on the Canvas
-
-* Be comfortable not knowing everything all at once.
+* Examples
+	* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
+	* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
+	* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
+	* Be comfortable not knowing everything all at once.
 * [p5 Reference](http://p5js.org/reference/)
 * Debugging
 	* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
