@@ -35,6 +35,9 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* Ideate
 		* **IN-CLASS**: Split up into pairs and come up with some ideas of things to make with code.
 * [Course overview](https://github.com/futuremarc/p5-creative-coding-course/blob/master/SYLLABUS.md#overview)
+
+### CLASS 2: Drawing on the Canvas
+
 * Course setup
 	* [Download Boilerplate](https://github.com/futuremarc/p5-creative-coding-course/tree/master/boiler-plate) 
 	* [Setting up p5.js](http://p5js.org/get-started/)
@@ -43,31 +46,28 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [Local Server Tutorial](https://github.com/processing/p5.js/wiki/Local-server)
 		* PC: [WAMP](http://www.wampserver.com/en/)
 		* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd', hit the spacebar and drag your folder containing index.html from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
-
-### CLASS 2: Drawing on the Canvas
+* [p5 Reference](http://p5js.org/reference/)
 * Examples
 	* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
 	* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
 	* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
-	* Be comfortable not knowing everything all at once.
-* [p5 Reference](http://p5js.org/reference/)
-* Debugging
-	* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
-	* `console.log()`
+* Be comfortable not knowing everything all at once.
 * Drawing 
 	* `createCanvas()`
 		* Where is (0,0)?
 	* `ellipse(), line(), curve(), point(), quad(), rect(), triangle()`
-	* `ellipseMode()`
-	* `rectMode()`
 	* `background(), fill(), noFill(), noStroke(), stroke()`
-* Color
-	* `background(255)` (white) 
-	* `background(0)` (black)
-	* `background(255, 0, 0)` (bright red)
-	* `fill(25, 50, 75, 255)` (100% opacity)
-* **IN-CLASS**: Draw anything onto the screen using basic shapes: A creature, beetle, self-portrait, the sky, flowers, a robot, an abstract image
-* Examples
+		* Color 
+			* `background(255)` (white) 
+			* `background(0)` (black)
+			* `background(255, 0, 0)` (bright red)
+			* `fill(25, 50, 75, 255)` (100% opacity)
+* Debugging
+	* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
+	* `console.log()`
+* **IN-CLASS**: Draw onto the screen using the shapes and colors learned. Paint anything your heart desires: a creature, beetle, self-portrait, the sky, flowers, a robot, an abstract image.
+* `ellipseMode()`
+* `rectMode()`
 
 ### CLASS 3: Animating on the Canvas
 
@@ -90,7 +90,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [`noise()`](http://p5js.org/reference/#/p5/noise)
 	* `x = x + 1` shorthand: `x+=1`
 	* [`map()`](http://p5js.org/reference/#/p5/map)
-* Examples
+	* **IN-CLASS**: Create a sketch using variables in your code. You can start something new or pick up where you've left off.
 
 ### CLASS 4: Interaction in the Browser
 
@@ -105,7 +105,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `Boolean` variables
 		* I am hungry
 * **IN-CLASS**: Bouncing ball
-* Examples
 
 ### CLASS 5: Loops and Arrays
 
@@ -127,7 +126,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Load and display and image
 * Fonts
 * Sound files
-* Examples
 
 ### CLASS 9: Workshop Day && Final Projects
 
