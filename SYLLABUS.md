@@ -90,7 +90,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* `console.log()`
 	* **IN-CLASS**: Create a sketch using variables in your code. You can start something new or pick up where you've left off.
 
-### CLASS 4: Interaction in the Browser
+### CLASS 4: Interaction and Conditionals
 
 * Events
 	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), `mouseDragged(), keyPressed(), keyCode`
