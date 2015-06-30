@@ -47,10 +47,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* PC: [WAMP](http://www.wampserver.com/en/)
 		* Mac: Do a Spotlight Search for 'Terminal' and open up the program. Type 'cd', hit the spacebar and drag your folder containing index.html from your finder onto Terminal. Press enter. Now type 'python -m SimpleHTTPServer'. Then goto your browser and goto the address [http://localhost:8000](http://localhost:8000)
 * [p5 Reference](http://p5js.org/reference/)
-* Examples
-	* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
-	* [Singing visualization](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/singing-viz)
-	* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
 * Be comfortable not knowing everything all at once.
 * Drawing 
 	* `createCanvas()`
@@ -62,15 +58,13 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* `background(0)` (black)
 			* `background(255, 0, 0)` (bright red)
 			* `fill(25, 50, 75, 255)` (100% opacity)
-* Debugging
-	* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
-	* `console.log()`
 * **IN-CLASS**: Draw onto the screen using the shapes and colors learned. Paint anything your heart desires: a creature, beetle, self-portrait, the sky, flowers, a robot, an abstract image.
 * `ellipseMode()`
 * `rectMode()`
 
 ### CLASS 3: Animating on the Canvas
 
+* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/drawing-with-the-mouse)
 * [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
 	* HSB: Hue, Saturation, Brightness
 	* RGB: Red, Green, Blue
@@ -82,6 +76,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* Initialize
 	* Use
 	* 'Built-in' variables
+		* `width, height, windowWidth, windowHeight`
 * Variation
 	* `mouseX, mouseY`
 	* `pmouseX, pmouseY`
@@ -90,13 +85,16 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* [`noise()`](http://p5js.org/reference/#/p5/noise)
 	* `x = x + 1` shorthand: `x+=1`
 	* [`map()`](http://p5js.org/reference/#/p5/map)
+	* Debugging
+		* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
+		* `console.log()`
 	* **IN-CLASS**: Create a sketch using variables in your code. You can start something new or pick up where you've left off.
 
 ### CLASS 4: Interaction in the Browser
 
 * Events
-	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), `mouseDragged(), touchStarted(), touchX, touchY, keyPressed(), keyCode`
-	* Ex 3-5
+	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), `mouseDragged(), keyPressed(), keyCode`
+
 * [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
 	* `If, else if, else`
 		* Grading System
@@ -108,6 +106,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 5: Loops and Arrays
 
+* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
