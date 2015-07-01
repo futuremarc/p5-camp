@@ -71,7 +71,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Code Blocks { }
 	* `setup(){}` runs once in the beggining.
 	* `draw(){}` when setup is finished it runs over and over again.
-* [Variables](http://www.w3schools.com/js/js_variables.asp)
+* [Variables](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp04_variables)
 	* Declare
 	* Initialize
 	* Use
