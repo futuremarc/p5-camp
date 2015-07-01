@@ -68,6 +68,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
 	* HSB: Hue, Saturation, Brightness
 	* RGB: Red, Green, Blue
+* Other ways to write fill
+	* transparency
 * Code Blocks { }
 	* `setup(){}` runs once in the beggining.
 	* `draw(){}` when setup is finished it runs over and over again.
