@@ -64,11 +64,10 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 3: Animating on the Canvas
 
-* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/drawing-with-the-mouse)
 * [`colorMode()`](http://p5js.org/reference/#/p5/colorMode)
 	* HSB: Hue, Saturation, Brightness
 	* RGB: Red, Green, Blue
-* Other ways to write fill
+* Other ways to write `fill()`
 	* transparency
 * Code Blocks { }
 	* `setup(){}` runs once in the beggining.
@@ -79,6 +78,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* Use
 	* 'Built-in' variables
 		* `width, height, windowWidth, windowHeight`
+* [Drawing with the mouse](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/drawing-with-the-mouse)
 * Variation
 	* `mouseX, mouseY`
 	* `pmouseX, pmouseY`
