@@ -5,9 +5,6 @@ function setup(){
 	createCanvas(640,360);
 }
 
-
-
-
 function draw(){
 	//AFTER SETUP, THIS HAPPENS OVER AND OVER AGAIN
 	background(255);
@@ -30,4 +27,5 @@ function draw(){
 	} else if (mouseX > 320 && mouseY > 180){
 		rect(320,180,320,180);
 	}
+	
 }
