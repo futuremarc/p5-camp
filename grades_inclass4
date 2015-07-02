@@ -1,0 +1,16 @@
+//CREATE A GRADING SYSTEM
+
+var grade = random(0,100);
+
+
+if (___) {
+	console.log('Assign letter grade A'); 
+} else if (___) {
+	console.log('___'); 
+} else if (___) {
+ 	console.log('___');
+} else if (___) {
+ 	console.log('___'); 
+} else {
+ 	console.log('___');
+}
