@@ -1,0 +1,13 @@
+var count = 0;
+var letter = "a";
+var d = 132.32;
+var happy = true;
+var x = 4.0
+var y;
+
+y = x + 5.2;
+var z = x*y + 15.0;
+
+
+
+

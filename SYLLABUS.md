@@ -94,20 +94,84 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 4: Interaction and Conditionals
 
-* Events
-	* [`mouseClicked()`](http://p5js.org/reference/#/p5/mouseClicked),[`accelerationY`](http://p5js.org/reference/#/p5/accelerationY), `mouseDragged(), keyPressed(), keyCode`
-
+* Review
+	* `Variables`
+		* Declare, Initialize, Use
+		* Built-in variables
+	* Types
+		* `Boolean`
+		* `String`
+		* `Number`
+	* How to make something in the center of screen?
 * [Conditionals](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp05_conditionals)
+	* Boolean expressions
+		* I am hungry (true)
+		* I am afraid of computer programming (false)
+		* I am funny (false)
+		* 15 is greater than 20 (false)
+		* 5 equals 5 (true)
+		* 32 is less than or equal to 33 (true)
+	* Using a variable to take different paths in our program depending on the current value stored in the variable
+		* x > 20 (depends on value of x)
+		* y == 5 (depends on value of y)
+		* z <= 33 (depends on value of z)
+	* Operators
+		* `< > >= <= == !=`
 	* `If, else if, else`
-		* Grading System
-	* `&& || == != === !==`
-	* Pseudo Code
+		* Operate as questions
+			* Allows us to execute certain instructions based on if the answer is `true` or `false`
+			* If I am hungry then eat some food, otherwise if I am thirsty drink some water, otherwise take a nap
+			* Pseudo Code
+				* If the mouse is on the left side of the screen, draw a rectangle on the left side of the screen
+					* `if (mouseX < width/2){
+						fill(255);
+						rect(0,0,width/2,height);
+					}`
+			* Can also be expanded by `else`
+				* `if (mouseX < width/2){
+					background(255);
+				} else {
+					background(0);
+				}`
+			* Can be further expanded by `else if`
+				* `if (mouseX < width/3){
+					background(255);
+				} else if (mouseX < 2 * width/3){
+					background(127);
+				} else {
+					background(0);
+				}
+			* Grading system excercise
+				* `var grade = random(0,100);
+					if (___) {
+						console.log('Assign letter grade A');
+					} else if (___) {
+						console.log('___');
+					} else if (___) {
+						console.log('___');
+					} else if (___) {
+						console.log('___');
+					} else {
+						console.log('___');
+					}`
+	* Logical Operators
+		* `&& ||`
+		* If my temperature is greater than 98.6 OR I have a rash on my arm, take me to see a doctor
+		* If I am stung by a bee AND I am allergic to bees, take me to see the doctor
+		* If the mouse is on the right side of the screen AND the mouse is on the bottom of the screen, draw a rectangle in the bottom right corner.
+		* We could use a nested if statement, but it can be simpler with using the logical AND (`&&`)
+		* If my temperature is NOT greater than 98.6, I won't call in sick to CoLab
+		* If I am stung by a bee AND I am NOT allergic to bees, don't worry!
+		* `if (mousePressed){
+			ellipse(width/2, height/2, 100, 100);
+		} else {
+			rect(width/2, height/2, 100, 100);
+		}`
 	* `Boolean` variables
-		* I am hungry
 * **IN-CLASS**: Bouncing ball
 
-### CLASS 5: Loops and Arrays
-
+### CLASS 5: Loops, Arrays, Events
+* [Singing Viz](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/singing-viz)
 * [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
