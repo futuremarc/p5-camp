@@ -84,7 +84,6 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `pmouseX, pmouseY`
 		* `line(pmouseX, pmouseY, mouseX, mouseY)`
 	* [`random()`](http://p5js.org/reference/#/p5/random)
-	* [`noise()`](http://p5js.org/reference/#/p5/noise)
 	* `x = x + 1` shorthand: `x+=1`
 	* [`map()`](http://p5js.org/reference/#/p5/map)
 	* Debugging
@@ -175,6 +174,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
 * Review and discussion
 * Workshopping
+* [`noise()`](http://p5js.org/reference/#/p5/noise)
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
