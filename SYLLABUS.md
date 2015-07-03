@@ -169,18 +169,21 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `Boolean` variables
 * **IN-CLASS**: Bouncing ball
 
-### CLASS 5: Loops and Events
-* [Singing Viz](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/singing-viz)
-* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/week1/face-paint)
+### CLASS 5: Workshop 
+
 * Review and discussion
 * Workshopping
+* [Singing Viz](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/singing-viz)
+
+### CLASS 6: Loops, [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+* global and local variables
 * [`noise()`](http://p5js.org/reference/#/p5/noise)
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
 * Events
+* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/face-paint)
 
-### CLASS 6: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
