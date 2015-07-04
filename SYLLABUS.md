@@ -176,7 +176,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * [Singing Viz](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/singing-viz)
 
 ### CLASS 6: Loops, [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
-* global and local variables
+* Review
+* Global and local variables
 * [`noise()`](http://p5js.org/reference/#/p5/noise)
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
