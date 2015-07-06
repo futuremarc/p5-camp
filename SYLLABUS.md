@@ -198,39 +198,40 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	line(140,60,140,80);
 	line(150,60,150,80);`
 		* How can we use variables to make some improvements and eliminate the hard-coded values? (we need legs' x, y locations, length, and spacing between the legs)
-		* `var y = 80;
-		var x = 50;
-		var spacing = 10;
-		var len = 20;
-		  // Draw the first leg.
-		  line(x,y,x,y + len); 
-		  // Add spacing so the next leg appears 10 pixels to the right.
-		  x = x + spacing; 
-		  // Continue this process for each leg, repeating it over and over.
-		  line(x,y,x,y + len); 
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);
-		  x = x + spacing;
-		  line(x,y,x,y + len);`
-}
-
-
-
+		* [Example](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_02_manylines2/sketch.js)
+		* This is nicer, but doubles the amount of code!
+* Loop structure is similar in syntax to a conditional, except instead of asking a true or false question to determine whether a block of code should be executed one time, our code will ask a true or false question to determine *how many times* the block of code should be *repeated*
+* While loop, for loop
+	* While loop
+		* Instructions inside the while block continue to be executed over and over until the test condition becomes false.
+		* [While loop example](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_03_whileloop/sketch.js)
+		* [While loop circles](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/exercise_6_1b_while_circles/sketch.js)
+		* Infinite loops are dangerous
+	* For loop sets up conditions and increments altogether.
+		* Common loops
+			* Start at 0 and count up to 9
+				* `for (var i = 0; i < 10; i = i + 1){}`
+			* Start at 0 and count up to 100 by 10
+				* `for (var i = 0; i < 101; i = i + 10){}`
+			* Start at 0 and count down to 0 by 5
+				* `for (var i = 100; i >= 0; i = i - 5){}`
+		* Initialization (first element of for looop) - A variable is declared and initialized for use within the body of the loop. This variable is most often used inside the loop as a counter.
+		* Boolean test (middle element of for loop) - The same as the boolean tests found in conditional statements and while loops. It can be any expression that evaluates to true or false.
+		* Iteration expression (last element of for loop) - An instruction you want to happen with each loop cycle. It is executed at the end of each cycle through the loop.
+		* `for (var i = 0; i < 10; i = i + 1){}` Declare a variable i, while i is less than 10 repeat this code, at the end of each iteration add 1 to i.
+			* Same thing as `int i =0; while (i < 10) {
+			//do something
+			i++
+			}`
+		* [For loop example](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_06_forloop/sketch.js)
+		* [For loop circles](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/exercise_6_2b_for_circles/sketch.js)
 * Global and local variables
+	* Global variables are declared at the top, outside of any code blocks
+	* Variables inside code blocks cannot be used outside of that code block but can be used anywhere within it, even within another code block.
+	* for loop uses local variable i, usually.
+	* [Local var example](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_07_localvar/sketch.js)
+	* [Draw is a loop](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_08_drawisaloop/sketch.js)
+	* [Interactive loops](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_09_loop_mouse/sketch.js)
 * `constrain()`
 * `beginShape()` `endShape()`
 * [`noise()`](http://p5js.org/reference/#/p5/noise)
