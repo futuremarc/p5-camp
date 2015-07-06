@@ -84,7 +84,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* `pmouseX, pmouseY`
 		* `line(pmouseX, pmouseY, mouseX, mouseY)`
 	* [`random()`](http://p5js.org/reference/#/p5/random)
-	* `x = x + 1` shorthand: `x+=1`
+	* `x = x + 1` shorthand: `x+=1` or even `x++`
 	* [`map()`](http://p5js.org/reference/#/p5/map)
 	* Debugging
 		* [Chrome Tools](https://developer.chrome.com/devtools/docs/console) (OPTION COMMAND J)
@@ -123,8 +123,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* Pseudo Code
 				* If the mouse is on the left side of the screen, draw a rectangle on the left side of the screen
 					* `if (mouseX < width/2){
+
 						fill(255);
+
 						rect(0,0,width/2,height);
+						
 					}`
 			* Can also be expanded by `else`
 				* `if (mouseX < width/2){
