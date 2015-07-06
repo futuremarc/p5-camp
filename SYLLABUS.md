@@ -139,7 +139,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 					background(127);
 				} else {
 					background(0);
-				}
+				}`
 			* Grading system excercise
 				* `var grade = random(0,100);
 					if (___) {
