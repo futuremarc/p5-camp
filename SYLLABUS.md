@@ -197,6 +197,39 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	line(130,60,130,80);
 	line(140,60,140,80);
 	line(150,60,150,80);`
+		* How can we use variables to make some improvements and eliminate the hard-coded values? (we need legs' x, y locations, length, and spacing between the legs)
+		* `var y = 80;
+		var x = 50;
+		var spacing = 10;
+		var len = 20;
+		  // Draw the first leg.
+		  line(x,y,x,y + len); 
+		  // Add spacing so the next leg appears 10 pixels to the right.
+		  x = x + spacing; 
+		  // Continue this process for each leg, repeating it over and over.
+		  line(x,y,x,y + len); 
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);
+		  x = x + spacing;
+		  line(x,y,x,y + len);`
+}
+
+
+
 * Global and local variables
 * `constrain()`
 * `beginShape()` `endShape()`
