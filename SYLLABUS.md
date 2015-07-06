@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover the basics of programming through: drawing and animating in the browser, designing and building interactivity, manipulating and animating page structure, audio synthesis on the web, and music visualization. We will be using the textbook and examples from [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js) by Daniel Shiffman.
+This course is an introduction to creative coding with the [p5.js](http://p5js.org) JavaScript Library. It will cover the basics of programming through: drawing and animating in the browser, designing and building interactivity, manipulating and animating page structure, audio synthesis on the web, and music visualization. We will be examples from the textbook [Learning Processing](https://github.com/shiffman/LearningProcessing-p5.js) by Daniel Shiffman.
 
 ### CLASS 1: Introduction
 
@@ -175,20 +175,40 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Workshopping
 * [Singing Viz](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/singing-viz)
 
-### CLASS 6: Loops, [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions) and [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays)
+### CLASS 6: Loops
 * Review
-* Global and local variables
-* [`noise()`](http://p5js.org/reference/#/p5/noise)
+	* Let's make a bouncing ball
+		* Let's take it further
 * [Loops](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp06_loops)
 	* while
 	* for
+* What is iteration?
+	* A generative process of repeating a set of rules or steps over and over again.
+* Let's draw some legs
+	* `stroke(0);
+	line(50,60,50,80);
+	line(60,60,60,80);
+	line(70,60,70,80);
+	line(80,60,80,80);
+	line(90,60,90,80);
+	line(100,60,100,80);
+	line(110,60,110,80);
+	line(120,60,120,80);
+	line(130,60,130,80);
+	line(140,60,140,80);
+	line(150,60,150,80);`
+* Global and local variables
+* `constrain()`
+* `beginShape()` `endShape()`
+* [`noise()`](http://p5js.org/reference/#/p5/noise)
+
 * Events
 * [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/face-paint)
 
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### CLASS 8: [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
+### CLASS 8: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions), [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays), [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
 
 * HTML
 * CSS
