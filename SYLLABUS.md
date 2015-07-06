@@ -221,7 +221,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 		* `for (var i = 0; i < 10; i = i + 1){}` Declare a variable i, while i is less than 10 repeat this code, at the end of each iteration add 1 to i.
 			* Same thing as `int i =0; while (i < 10) {
 			//do something
-			i++
+			i++;
 			}`
 		* [For loop example](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/example_6_06_forloop/sketch.js)
 		* [For loop circles](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp06_loops/exercise_6_2b_for_circles/sketch.js)
@@ -235,10 +235,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * `constrain()`
 * `beginShape()` `endShape()`
 * [`noise()`](http://p5js.org/reference/#/p5/noise)
-
 * Events
 * [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/face-paint)
-
 
 ### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
