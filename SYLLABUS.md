@@ -123,11 +123,8 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 			* Pseudo Code
 				* If the mouse is on the left side of the screen, draw a rectangle on the left side of the screen
 					* `if (mouseX < width/2){
-
 						fill(255);
-
 						rect(0,0,width/2,height);
-						
 					}`
 			* Can also be expanded by `else`
 				* `if (mouseX < width/2){
