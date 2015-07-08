@@ -213,11 +213,11 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 				* `for (var i = 0; i < 10; i = i + 1){}`
 			* Start at 0 and count up to 100 by 10
 				* `for (var i = 0; i < 101; i = i + 10){}`
-			* Start at 0 and count down to 0 by 5
+			* Start at 100 and count down to 0 by 5
 				* `for (var i = 100; i >= 0; i = i - 5){}`
-		* Initialization (first element of for looop) - A variable is declared and initialized for use within the body of the loop. This variable is most often used inside the loop as a counter.
+		* Initialization (first element of for loop) - A variable is declared and initialized for use within the body of the loop. This variable is most often used inside the loop as a counter.
 		* Boolean test (middle element of for loop) - The same as the boolean tests found in conditional statements and while loops. It can be any expression that evaluates to true or false.
-		* Iteration expression (last element of for loop) - An instruction you want to happen with each loop cycle. It is executed at the end of each cycle through the loop.
+		* Iteration expression (last element of for loop) - An instruction you want to  happen with each loop cycle. It is executed at the end of each cycle through the loop.
 		* `for (var i = 0; i < 10; i = i + 1){}` Declare a variable i, while i is less than 10 repeat this code, at the end of each iteration add 1 to i.
 			* Same thing as `int i =0; while (i < 10) {
 			//do something
@@ -235,20 +235,44 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * `constrain()`
 * `beginShape()` `endShape()`
 * [`noise()`](http://p5js.org/reference/#/p5/noise)
-* Events
-* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/face-paint)
 
-### CLASS 7: [Music Viz w/Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
+### CLASS 7: [Music Viz w/Special Guest Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### CLASS 8: [Functions()](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp07_functions), [Arrays](https://github.com/shiffman/LearningProcessing-p5.js/tree/master/chp09_arrays), [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
-
-* HTML
-* CSS
+### CLASS 8: [Events](http://p5js.org/reference/) and the [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
+* Mouse events
+	* mousePressed()
+	* mouseIsPressed()
+	* mouseMoved()
+	* mouseClicked()
+	* mouseDragged()
+* Keyboard events
+	* keyPressed()
+	* keyCode
+	* keyReleased()
+* Mobile events
+	* touchStarted()
+	* accelerationX()
+	* accelerationY()
+	* accelerationZ()
+* Using the microphone, video camera, face tracker
+	* [Face painting](https://github.com/futuremarc/p5-creative-coding-course/tree/master/exercises/face-paint)
+* DOM
+	* createSlider()
+	* createButton()
+	* createDiv()
+	* createA()
+	* value()
+	* position()
+	* size()
+	* hide()
+	* show()
+	* style()?
+	* DOM Events
+		* mouseOver()
+		* mousedClicked()
+	* [p5.speech!](https://github.com/IDMNYU/p5.js-speech)
+* Load and display and image?
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
-* Video and Audio elements
-* Load and display and image
-* Fonts
-* Sound files
 
 ### CLASS 9: Workshop Day && Final Projects
 
