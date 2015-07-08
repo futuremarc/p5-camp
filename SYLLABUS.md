@@ -270,7 +270,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 	* DOM Events
 		* mouseOver()
 		* mousedClicked()
-	* [p5.speech!](https://github.com/IDMNYU/p5.js-speech)
+	* [p5.speech!](http://abilitylab.nyu.edu/p5.js-speech/)
 * Load and display and image?
 * [Beyond the Canvas](https://github.com/processing/p5.js/wiki/Beyond-the-canvas)
 
