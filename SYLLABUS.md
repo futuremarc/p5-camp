@@ -238,7 +238,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 7: [Music Viz w/Special Guest Jason Sigal](https://github.com/therewasaguy/p5-music-viz)
 
-### CLASS 8: [Events](http://p5js.org/reference/) and the [DOM](http://p5js.org/reference/#/libraries/p5.dom) and Media
+### CLASS 8: [Events](http://p5js.org/reference/) and the [DOM](http://p5js.org/reference/#/libraries/p5.dom)
 * Mouse events
 	* mousePressed()
 	* mouseIsPressed()
@@ -276,8 +276,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 9: Workshop Day && Final Projects
 
-* Ideate
-* Create or Improve
+* Work on your final projects!
 
 ### CLASS 10: Final Projects
 
