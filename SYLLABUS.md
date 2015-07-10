@@ -282,6 +282,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 * Debug
 * Presentations
+* Next Steps
 
 ### KEYWORDS
 

@@ -23,7 +23,7 @@ function setup(){
 }
 
 function draw(){
-	background(0, 20);
+
 	fill(255, 255, 0);
 
 	amp.smooth(smoothing);
