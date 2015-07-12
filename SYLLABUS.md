@@ -283,7 +283,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 * Your projects online!
 	* [Mac](http://104.131.32.15:3000/mac)
-	* [Gigi](http://104.131.32.15:3000/gigi)
+	* [Gigi && Eileen](http://104.131.32.15:3000/gigi)
 	* [Dimitri](http://104.131.32.15:3000/dimi)
 	* [Sharon](http://104.131.32.15:3000/sharon)
 	* [Richard](http://104.131.32.15:3000/richard)
