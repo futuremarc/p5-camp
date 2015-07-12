@@ -292,7 +292,7 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 * Debug
 * Presentations
 * Next Steps
-	* [Processing course with Daniel Shiffman!](http://icm.shiffman.net)
+	* [Finish with Learning Processing with Daniel Shiffman!](http://icm.shiffman.net)
 	* See [Object oriented programming example](https://github.com/futuremarc/p5-creative-coding-course/blob/master/inclass/objectoriented_inclass10.js)
 
 ### KEYWORDS
