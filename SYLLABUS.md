@@ -280,6 +280,15 @@ This course is an introduction to creative coding with the [p5.js](http://p5js.o
 
 ### CLASS 10: Final Projects
 
+
+* Your projects online!
+	* [Mac](104.131.32.15:3000/mac)
+	* [Gigi](104.131.32.15:3000/gigi)
+	* [Dimitri](104.131.32.15:3000/dimi)
+	* [Sharon](104.131.32.15:3000/sharon)
+	* [Richard](104.131.32.15:3000/richard)
+	* [Tina](104.131.32.15:3000/tina)
+	* [Shantara](104.131.32.15:3000/shantara)
 * Debug
 * Presentations
 * Next Steps
